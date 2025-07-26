@@ -6,6 +6,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/AndreySdob/ConfigServer
+          uri: https://github.com/AndreySdob/config-repo
           search-paths: '{application}'
           clone-on-start: true
